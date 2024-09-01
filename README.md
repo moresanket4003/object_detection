@@ -3,6 +3,3 @@ OpenCV contains methods that can accept object detection weight/config files for
 
 
 
-## Prerequisites 
-Anaconda Terminal
-
